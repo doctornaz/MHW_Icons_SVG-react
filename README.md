@@ -6,7 +6,7 @@ Converted using SVGR
 ## Usage
 The `individual-components` contains each icon set as different files. For example
 ```
-/individual-react-files
+/individual-components
 |--/armor
    |--/arms
         |--Rank 1.svg
@@ -27,10 +27,36 @@ You can simply import them using
 ```jsx
 import SvgHelmRank01 from '.../route/to/svg/file'
 //Rest of your code...
-<SvgHelmRank01 />
+<SvgHelmRank01 /> //for rank 1 svg helm
 ```
 
 ---
+
+
+The `reusable-components` contains each icon set as different files. For example
+```
+/individual-react-files
+|--/armor
+    |--/helm
+        |--HelmArmorSlotIcon.jsx
+    |--/chest
+        |--ChestArmorSlotIcon.jsx
+    |--/helm
+        |--HelmArmorSlotIcon.jsx
+    |--/torso
+        |--TorsoArmorSlotIcon.jsx
+    |--/legs
+        |--LegsArmorSlotIcon.jsx
+```
+
+You can import the `Arms` component using 
+```jsx
+import ArmsArmorSlotIcon from '.../route/to/svg/file'
+//Rest of your code...
+<ArmsArmorSlotIcon rank={1} size={16}/> //for rank 1 svg helm
+//rank is 1 to 12.
+//size is any. you have to toy around with it.
+```
 
 # Support
 I'll be converting more icons as needed.
