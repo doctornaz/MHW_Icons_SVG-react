@@ -48,3 +48,5 @@ const rankColors = {
 		fill2: "#c4ffff"
 	},
 };
+
+export default rankColors;
