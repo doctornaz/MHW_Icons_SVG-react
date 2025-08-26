@@ -77,3 +77,27 @@ A collection of handmade icons in SVG format from MONSTER HUNTER: WORLD.
 - Hunter armor.
 
 ---
+
+## Install & Use as a GitHub Package
+
+You can use this package in other projects by installing directly from GitHub:
+
+```bash
+npm install doctornaz/MHW_Icons_SVG-react
+```
+
+Or with yarn:
+```bash
+yarn add doctornaz/MHW_Icons_SVG-react
+```
+
+## Usage Example
+
+```jsx
+import { ArmsArmorSlotIcon } from 'mhw-icons-svg-react/reusable-react-components/armor/arms';
+
+// In your component:
+<ArmsArmorSlotIcon rank={1} size={32} />
+```
+
+Refer to the `reusable-react-components` and `individual-components` folders for more exports and usage details.

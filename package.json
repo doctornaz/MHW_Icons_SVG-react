@@ -1,0 +1,21 @@
+{
+	"name": "mhw-icons-svg-react",
+	"version": "1.0.0",
+	"description": "Handmade Monster Hunter World SVG icons as React components.",
+	"author": "doctornaz",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/doctornaz/MHW_Icons_SVG-react.git"
+	},
+	"files": [
+		"reusable-react-components",
+		"individual-components"
+	],
+	"keywords": [
+		"monster-hunter-world",
+		"svg",
+		"react",
+		"icons"
+	]
+}
