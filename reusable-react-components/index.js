@@ -1,9 +1,9 @@
 // Armor
-export { default as ArmsArmorSlotIcon } from './armor/arms/ArmsArmorSlotIcon.jsx';
-export { default as ChestArmorSlotIcon } from './armor/chest/ChestArmorSlotIcon.jsx';
-export { default as HelmArmorSlotIcon } from './armor/helm/HelmArmorSlotIcon.jsx';
-export { default as LegsArmorSlotIcon } from './armor/legs/LegsArmorSlotIcon.jsx';
-export { default as TorsoArmorSlotIcon } from './armor/torso/TorsoArmorSlotIcon.jsx';
+export { default as ArmsArmorSlotIcon } from './armor/ArmsArmorSlotIcon.jsx';
+export { default as ChestArmorSlotIcon } from './armor/ChestArmorSlotIcon.jsx';
+export { default as HelmArmorSlotIcon } from './armor/HelmArmorSlotIcon.jsx';
+export { default as LegsArmorSlotIcon } from './armor/LegsArmorSlotIcon.jsx';
+export { default as TorsoArmorSlotIcon } from './armor/TorsoArmorSlotIcon.jsx';
 
 // Weapons
 export { default as BowIcon } from './weapons/Bow/BowIcon.jsx';
