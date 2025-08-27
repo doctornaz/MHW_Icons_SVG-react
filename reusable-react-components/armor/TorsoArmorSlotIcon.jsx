@@ -1,5 +1,5 @@
 import * as React from "react";
-import rankColors from "../colors/colors2";
+import rankColors from "./colors/colors2";
 
 const SvgTorsoRank01 = ({ rank, size }) => {
   
