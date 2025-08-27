@@ -99,20 +99,20 @@ Object.defineProperty(exports, "TorsoArmorSlotIcon", {
     return _TorsoArmorSlotIcon["default"];
   }
 });
-var _ArmsArmorSlotIcon = _interopRequireDefault(require("./armor/arms/ArmsArmorSlotIcon.jsx"));
-var _ChestArmorSlotIcon = _interopRequireDefault(require("./armor/chest/ChestArmorSlotIcon.jsx"));
-var _HelmArmorSlotIcon = _interopRequireDefault(require("./armor/helm/HelmArmorSlotIcon.jsx"));
-var _LegsArmorSlotIcon = _interopRequireDefault(require("./armor/legs/LegsArmorSlotIcon.jsx"));
-var _TorsoArmorSlotIcon = _interopRequireDefault(require("./armor/torso/TorsoArmorSlotIcon.jsx"));
-var _BowIcon = _interopRequireDefault(require("./weapons/Bow/BowIcon.jsx"));
-var _ChargeBladeIcon = _interopRequireDefault(require("./weapons/ChargeBlade/ChargeBladeIcon.jsx"));
-var _DualBladesIcon = _interopRequireDefault(require("./weapons/DualBlades/DualBladesIcon.jsx"));
-var _GreatSwordIcon = _interopRequireDefault(require("./weapons/GreatSword/GreatSwordIcon.jsx"));
-var _GunlanceIcon = _interopRequireDefault(require("./weapons/Gunlance/GunlanceIcon.jsx"));
-var _HammerIcon = _interopRequireDefault(require("./weapons/Hammer/HammerIcon.jsx"));
-var _LanceIcon = _interopRequireDefault(require("./weapons/Lance/LanceIcon.jsx"));
-var _LightBowgunIcon = _interopRequireDefault(require("./weapons/LightBowgun/LightBowgunIcon.jsx"));
-var _LongSwordIcon = _interopRequireDefault(require("./weapons/LongSword/LongSwordIcon.jsx"));
-var _SwitchAxeIcon = _interopRequireDefault(require("./weapons/SwitchAxe/SwitchAxeIcon.jsx"));
-var _SwordAndShieldIcon = _interopRequireDefault(require("./weapons/SwordAndShield/SwordAndShieldIcon.jsx"));
+var _ArmsArmorSlotIcon = _interopRequireDefault(require("./armor/ArmsArmorSlotIcon"));
+var _ChestArmorSlotIcon = _interopRequireDefault(require("./armor/ChestArmorSlotIcon"));
+var _HelmArmorSlotIcon = _interopRequireDefault(require("./armor/HelmArmorSlotIcon"));
+var _LegsArmorSlotIcon = _interopRequireDefault(require("./armor/LegsArmorSlotIcon"));
+var _TorsoArmorSlotIcon = _interopRequireDefault(require("./armor/TorsoArmorSlotIcon"));
+var _BowIcon = _interopRequireDefault(require("./weapons/Bow/BowIcon"));
+var _ChargeBladeIcon = _interopRequireDefault(require("./weapons/ChargeBlade/ChargeBladeIcon"));
+var _DualBladesIcon = _interopRequireDefault(require("./weapons/DualBlades/DualBladesIcon"));
+var _GreatSwordIcon = _interopRequireDefault(require("./weapons/GreatSword/GreatSwordIcon"));
+var _GunlanceIcon = _interopRequireDefault(require("./weapons/Gunlance/GunlanceIcon"));
+var _HammerIcon = _interopRequireDefault(require("./weapons/Hammer/HammerIcon"));
+var _LanceIcon = _interopRequireDefault(require("./weapons/Lance/LanceIcon"));
+var _LightBowgunIcon = _interopRequireDefault(require("./weapons/LightBowgun/LightBowgunIcon"));
+var _LongSwordIcon = _interopRequireDefault(require("./weapons/LongSword/LongSwordIcon"));
+var _SwitchAxeIcon = _interopRequireDefault(require("./weapons/SwitchAxe/SwitchAxeIcon"));
+var _SwordAndShieldIcon = _interopRequireDefault(require("./weapons/SwordAndShield/SwordAndShieldIcon"));
 function _interopRequireDefault(e) { return e && e.__esModule ? e : { "default": e }; }
